@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BisectionMethod", "BisectionMethod\BisectionMethod.csproj", "{ACA8BCB5-8E95-421C-8A88-619611EE86F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonRapsonMethod", "NewtonRapsonMethod\NewtonRapsonMethod.csproj", "{597A5C93-F63D-4F7E-8879-7F77D0F8F03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA8BCB5-8E95-421C-8A88-619611EE86F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA8BCB5-8E95-421C-8A88-619611EE86F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA8BCB5-8E95-421C-8A88-619611EE86F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA8BCB5-8E95-421C-8A88-619611EE86F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597A5C93-F63D-4F7E-8879-7F77D0F8F03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597A5C93-F63D-4F7E-8879-7F77D0F8F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597A5C93-F63D-4F7E-8879-7F77D0F8F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597A5C93-F63D-4F7E-8879-7F77D0F8F03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
